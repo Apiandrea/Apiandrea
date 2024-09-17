@@ -1,14 +1,21 @@
 
+```bash
+....._      
+ `.   ``-.                               .-----.._
+   `,     `-.                          .:      /`
+     :       `"..                 ..-``       :
+     /   ...--:::`n            n.`::...       :
+     `:``      .` ::          /  `.     ``---..:.    * whoami?        Apiandrea
+       `\    .`  ._:   .-:   ::    `.     .-``       * country        Italy
+         :  :    :_\\_/: :  .::      `.  /           * Lang & Tools   C, python, Java 
+         : /      \-../:/_.`-`         \ :                            PenTest tools (most used)
+         :: _.._  * * `/`             \|
+         :-`    ``(_. ..-----hh``````/-._:
+                     `:      ``   _ /     `
+                      :    _..-``
+                      l--``
 
-<pre>
-    =/\                 /\=
-    / \'._   (\_/)   _.'/ \    
-   / .''._'--(<span style="color:red">o</span>.o)--'_.''. \    
-  /.' _/ |`'=/ " \='`| \_ `.\    
- /` .' `\;-,'\___/',-;/` '. '\   
-/.-'      `\(-V-)/`       `-.\  
-             "   "               
-</pre>
+```
 
 <!--
 **Apiandrea/Apiandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
